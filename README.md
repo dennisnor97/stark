@@ -7,3 +7,5 @@ Starknet
 Community
 
 Crypto
+
+Help
