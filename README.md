@@ -23,3 +23,5 @@ Starkware
 ETH
 
 L2
+
+Staking
