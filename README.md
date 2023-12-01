@@ -25,3 +25,5 @@ ETH
 L2
 
 Staking
+
+Scaling
