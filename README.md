@@ -9,3 +9,5 @@ Community
 Crypto
 
 Help
+
+Airdrop
